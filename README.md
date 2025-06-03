@@ -20,3 +20,5 @@ A FiveM QBCore-compatible resource that allows players to puncture vehicle tires
 
 1. Place `n9-puncturewheel` in your `resources` folder.
 2. Add to your `server.cfg`:
+3. Item ` nail= { name = 'nail', label = 'Nail', weight = 100, type = 'item', image = 'nail.png', unique = true, useable = false, shouldClose = true, combinable = nil, description = nil }, `
+
