@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Puncture Vehicle Tires with n9-target using nail item and sync'
+description 'Puncture Vehicle Tires'
 author 'N9 Development'
 version '1.0.0'
 
